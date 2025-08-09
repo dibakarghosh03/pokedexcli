@@ -33,7 +33,7 @@ Your Pokedex:
 
 1. **Clone the repository**:
    ```
-   git clone git@github.com:<your-username>/pokedex-cli.git
+   git clone https://github.com/dibakarghosh03/pokedexcli.git
    cd pokedex-cli
    ```
 
